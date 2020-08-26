@@ -1,0 +1,74 @@
+body {
+    font-size: 17px;
+}
+
+nav {
+    background-color: #ccae62;
+    text-align: center;
+    box-shadow: 0 0px 5px black;
+    margin-bottom: 30px;
+}
+
+label {
+    text-align: right;
+}
+
+nav a {
+    margin: 0 5px 0 5px;
+}
+
+h1 {
+    font-family: 'Trade Winds';
+    color: #b6984b;
+}
+
+body {
+    background-color: #ffda79;
+}
+
+.container .row {
+    text-align: center;
+}
+
+footer {
+    background-color: #ccae62;
+    padding: 50px 100px;
+    margin-top: 30px;
+}
+
+footer h5 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.party {
+    border: 1px solid #9b8244;
+    box-shadow: 0px 0px 5px #9b8244;
+    color: #5e4f29;
+    margin: 2px;
+}
+
+.yourturn {
+    border: 1px solid green;
+    box-shadow: 0px 0px 5px green;
+    color: #5e4f29;
+    margin: 2px;
+}
+
+.win {
+    border: 1px solid white;
+    box-shadow: 0px 0px 5px #9b8244;
+    color: #5e4f29;
+    margin: 2px;
+}
+
+.loose {
+    border: 1px solid #500064;
+    box-shadow: 0px 0px 5px #9b8244;
+    color: #5e4f29;
+    margin: 2px;
+}
+
+ul {
+    list-style-type: none;
+}
